@@ -1,0 +1,63 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# In[ ]:
+
+
+
+{"intents": [
+       
+    {"tag": "Question 1",
+         "patterns": ["top 5 movies", "What are the top 5 movies on Netflix", "Show me the top 5 movies", "Show me the top 5 movies on Netflix", "Top 5 movies on Netflix"],
+         "responses": [],
+         "context_set": ""
+        },
+   {"tag": "Question 2",
+         "patterns": ["top 5 shows", "What are the top 5 show on Netflix", "Show me the top 5 shows", "Show me the top 5 shows on Netflix", "Top 5 shows on Netflix"],
+         "responses": [],
+         "context_set": ""
+        },
+      {"tag": "Question 3",
+         "patterns": ["Romantic movies on netflix", "Show me romantic movies on Netflix", "Romcom movies","Cute movies", "Valentines Day", "romance" ],
+         "responses": [],
+         "context_set": ""
+        },
+     {"tag": "Question 4",
+         "patterns": ["latest movie on netflix", "What is the latest movie on Netflix", "Show me the latest movie on Netflix", "Last released movie on Netflix"],
+         "responses": [],
+         "context_set": ""
+        },
+     {"tag": "Question 5",
+         "patterns": ["Best movie on netflix", "Best rated movie on Netflix", "Show me the highest rated movie on Netflix", "Show me the best rated movie on Netflix","Highest rated movie on Netflix", "What is the best rated movie on Netflix","Movie with higest rating", "Top movie on Netflix" ],
+         "responses": [],
+         "context_set": ""
+        },
+    {"tag": "Question 6",
+         "patterns": ["Best show on netflix", "Best rated show on Netflix", "Show me the highest rated show on Netflix", "Show me the best rated show on Netflix","Highest rated show on Netflix", "What is the best rated show on Netflix","Show with higest rating", "Top show on Netflix" ],
+         "responses": [],
+         "context_set": ""
+        },
+     {"tag": "Question 7",
+         "patterns": ["Comedy movies on netflix", "Show me comedy movies on Netflix", "Comedy movies","Funny movies" ],
+         "responses": [],
+         "context_set": ""
+        },
+     {"tag": "Question 8",
+         "patterns": ["Horror movies on netflix", "Show me horror movies on Netflix", "Horror movies","Scary movies", "Halloween movies" ],
+         "responses": [],
+         "context_set": ""
+        },
+    {"tag": "Question 9",
+         "patterns": ["Sci-fi shows on netflix", "Show me scifi shows on Netflix", "Shows with scifi","Science on Netflix", "scifi shows on Netflix", "scifi", "sci-fi"],
+         "responses": [],
+         "context_set": ""
+        },
+     {"tag": "Question 10",
+         "patterns": ["Comedy shows on netflix", "Show me comedy shows on Netflix", "Comedy shows","Funny shows", "light-hearted shows", "sitcoms" ],
+         "responses": [],
+         "context_set": ""
+        }
+         
+   ]
+}
+
